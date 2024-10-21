@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo and I'm a young apprentice at Digix, from Brazil, Campo Grande</h2>
 
 ###
 
