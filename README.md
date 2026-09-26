@@ -17,6 +17,7 @@ Estudante na FIAP e desenvolvedor front-end freelancer. Atualmente estudo agente
 | [**SoulPass**](https://github.com/MariMari-Ramos/SoulPass) | Mobilidade urbana sustentável com gamificação *(projeto em equipe, Challenge FIAP)* | React, TypeScript, Tailwind |
 | [**FocusTrack**](https://github.com/rodrigo15511/focustrack) | Rastreador de sessões de estudo com XP, persistência em JSON | Python |
 | **ToCapivara** | Sistema de gestão escolar: notas, horários, diário e avisos *(projeto em equipe)* | ASP.NET, PostgreSQL, Vue |
+| [**Estudos**](https://github.com/rodrigo15511/estudos) | Minha evolução programando: jogo da memória, API de prospecção com FastAPI, POO e JDBC em Java, JavaScript e React | Python, Java, JS, React, C |
 
 ## 📫 Contato
 
