@@ -1,6 +1,6 @@
 # Olá, sou o Rodrigo Terra 👋
 
-Estudante na FIAP e desenvolvedor front-end freelancer. Atualmente estudo agentes de IA integrados a sistemas reais: como fazer um modelo de linguagem agir com segurança quando há dinheiro, agenda ou dado de saúde envolvido.
+Estudante na FIAP. Atualmente estudo agentes de IA integrados a sistemas reais: como fazer um modelo de linguagem agir com segurança quando há dinheiro, agenda ou dado de saúde envolvido.
 
 ## 🛠 Tecnologias
 
